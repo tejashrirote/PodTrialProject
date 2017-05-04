@@ -1,0 +1,6 @@
+framework module PodTrialProject {
+  umbrella header "PodTrialProject-umbrella.h"
+
+  export *
+  module * { export * }
+}

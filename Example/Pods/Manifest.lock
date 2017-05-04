@@ -1,0 +1,16 @@
+PODS:
+  - PodTrialProject (0.1.0)
+
+DEPENDENCIES:
+  - PodTrialProject (from `../`)
+
+EXTERNAL SOURCES:
+  PodTrialProject:
+    :path: ../
+
+SPEC CHECKSUMS:
+  PodTrialProject: 59fb6881f02c69e3ecbc1e6274cb6ee72f6ebbcc
+
+PODFILE CHECKSUM: 98394b2c3e3a78950781c3bbf407d795a3a82ffd
+
+COCOAPODS: 1.2.1

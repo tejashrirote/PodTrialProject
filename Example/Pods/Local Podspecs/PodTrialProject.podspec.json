@@ -1,0 +1,22 @@
+{
+  "name": "PodTrialProject",
+  "version": "0.1.0",
+  "summary": "A short description of PodTrialProject.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/tejashri/PodTrialProject",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "tejashri": "tejashrirote@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/tejashri/PodTrialProject.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "PodTrialProject/Classes/**/*"
+}
